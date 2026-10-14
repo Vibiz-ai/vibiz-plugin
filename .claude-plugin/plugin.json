@@ -1,0 +1,15 @@
+{
+  "name": "vibiz",
+  "displayName": "Vibiz",
+  "version": "1.0.0",
+  "description": "Your AI marketing team in Claude: set up a brand, create on-brand ads and UGC videos, review ad performance across Meta, Google, TikTok, LinkedIn, Pinterest and X, and plan social content, with approval before anything goes live.",
+  "author": {
+    "name": "Vibiz",
+    "email": "lautaro@vibiz.ai",
+    "url": "https://www.vibiz.ai"
+  },
+  "homepage": "https://www.vibiz.ai/docs/mcp",
+  "repository": "https://github.com/Vibiz-ai/vibiz-plugin",
+  "license": "MIT",
+  "keywords": ["marketing", "advertising", "ads", "ugc", "social-media", "meta-ads", "google-ads", "tiktok-ads", "small-business"]
+}
