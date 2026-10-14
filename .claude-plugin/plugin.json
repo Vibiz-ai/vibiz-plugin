@@ -9,6 +9,7 @@
     "url": "https://www.vibiz.ai"
   },
   "homepage": "https://www.vibiz.ai/docs/mcp",
+  "privacyPolicyUrl": "https://www.vibiz.ai/privacy",
   "repository": "https://github.com/Vibiz-ai/vibiz-plugin",
   "license": "MIT",
   "keywords": ["marketing", "advertising", "ads", "ugc", "social-media", "meta-ads", "google-ads", "tiktok-ads", "small-business"]
